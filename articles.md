@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: double metric site
 ---
 
 <div id="articles">

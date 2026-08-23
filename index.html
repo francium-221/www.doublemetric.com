@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Long Haul
+title: double metric
 ---
 
 <div class="home" id="home">
@@ -15,6 +15,9 @@ title: Long Haul
 			<p>
 				{%- if post.description -%}{{ post.description }}{%- else -%}{{
 				post.excerpt | strip_html }}{%- endif -%}
+			</p>
+			<p class="date">
+				by {{ post.author }}
 			</p>
 		</article>
 		{%- endfor -%}
