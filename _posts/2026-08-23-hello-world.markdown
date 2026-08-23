@@ -9,10 +9,11 @@ description: "I decided to learn video game development as a hobby somewhere aro
 <p class="intro"><span class="dropcap">I</span> decided to learn video game development as a hobby somewhere around early 2023, using Unity. As these things generally go, my initial game concept was too ambitious and technically complex. I was trying to build and combine, procedurally, 3D animals and animate them.</p>
 <p>I worked at it for over a year, until it became clear to me I was never going to finish it, because the animal creation part was progressing slower than expected and I hadn't actually started <em><strong>building</strong></em> the game. The animal creation system alone was going to take me 2-3 years by myself, without getting into any game creation.</p>
 <p>Due to this realization I decided to switch gears, promising myself to return to the 3D animal concept once I get a better opportunity to work at it. Around this time the Unity user license "runtime fee" debacle occurred. If you want to learn what it was, or just revisit it for kicks, well here you go:</p>
-<div class="video-container">
-  <iframe class="video" src="https://www.youtube.com/embed/mo0rzeRESVI" frameborder="0" allowfullscreen></iframe>
-</div>
-
+<p>
+	<div class="video-container">
+			<iframe class="video" src="https://www.youtube.com/embed/mo0rzeRESVI" frameborder="0" allowfullscreen></iframe>
+	</div>
+</p>
 <p>Is around mid-2024 when I decided to start a new project, this time running on Godot 4.1, version that I am still using and I hope I don't have to upgrade until the project is done. This project started as a card-based mech auto battler, and is still going. Some things have changed since the initial plan, like some scope creep, but also I am dropping the card-based functionality and using a simple UI and battle loadout selection. No decks, no builds.</p>
 <figure>
 	<img src="/assets/img/2026_08_23_hello_world/overworld.jpg" alt="video game overworld map">
