@@ -50,6 +50,7 @@ HOMEPAGE STYLING
 
 	.pageTitle {
 		margin: 2rem auto 1em;
+		color: $navy;
 	}
 }
 
@@ -285,6 +286,11 @@ DARK THEME STYLING
 		color: white;
 	}
 
+#home {
+	.pageTitle {
+		color: $primary-color;
+	}
+}
 	.content:after,
 	.post .featuredImage:before {
 		background: black;
