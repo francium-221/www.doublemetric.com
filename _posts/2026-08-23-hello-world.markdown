@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello World!"
-date:   2024-08-23
+date:   2026-08-23
 author: "Fabs"
 description: "I decided to learn video game development as a hobby somewhere around early 2023, using Unity. As these things generally go, my initial game concept was too ambitious and technically complex. I was trying to build and combine, procedurally, 3D animals and animate them..."
 ---
